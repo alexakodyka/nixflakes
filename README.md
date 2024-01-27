@@ -87,7 +87,9 @@ Transparency is cool.
 
 <details>
 <summary>📊 Diagrams</summary>
-
+    
+![Flake Structure](docs/screens/FlakeStructure9ForPrint.png)
+    
 ![Flake Structure](docs/screens/FlakeStructure9.png)
 
 ![Flake Profiles](docs/screens/FlakeProfiles9.png)
